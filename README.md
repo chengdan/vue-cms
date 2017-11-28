@@ -3,7 +3,7 @@
 ## 运行步骤
 1. clone本仓库到本地
 ```base
-git clone https://github.com/avakpan/vue-template.git 你的项目名称
+git clone https://github.com/chengdan/webpack-template.git 你的项目名称
 ```
 
 2. 安装对应的依赖项
